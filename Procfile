@@ -1,1 +1,1 @@
-web: node subi/src/index
+web: node subi/src/index.js
